@@ -1,0 +1,48 @@
+/* Background */
+body {
+    background-color: #ffffff; /* Light blue */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #3843a6;
+    color: #ffffff13(255, 255, 255);
+}
+
+/* Sections */
+section {
+    padding: 20px;
+    margin: 10px;
+    color: #434343;
+    border: 1px solid #3843a656;
+    background-color: #3843a613;
+    border-radius: 8px;
+}
+
+/* Navigation */
+nav {
+    text-align: right;
+    padding: 10px;
+    background-color: #ddd;
+}
+
+/* Links */
+a {
+    color: #3843a6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Lists */
+ol, ul {
+    padding-left: 20px;
+}
